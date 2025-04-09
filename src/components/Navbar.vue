@@ -27,8 +27,7 @@ defineProps<{
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: white;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #cbc1c1;
   flex-wrap: wrap;
 }
 
@@ -47,7 +46,7 @@ defineProps<{
 .progress-bar {
   width: 20px;
   height: 6px;
-  background-color: #ddd;
+  background-color: #cbc1c1;
   border-radius: 3px;
   transition: background-color 0.3s ease;
 }
